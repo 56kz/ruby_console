@@ -1,0 +1,11 @@
+(Definicion) Permite definir lenguajes de marcas, utilizado para almacenar datos en forma legible
+(Respuesta) XML
+
+(Definicion) Un tipo de archivo en el que todos los valores están delimitados por comas.
+(Respuesta) CSV
+
+(Definicion) es un formato de serialización de datos legibles, ligero
+(Respuesta) YAML
+
+(Definicion)es un formato de texto ligero para el intercambio de datos.
+(Respuesta) JSON
